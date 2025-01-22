@@ -1,0 +1,16 @@
+.container {
+  margin-top: 20px;
+  padding: 10px;
+}
+.img {
+  width: 70px;
+  height: 70px;
+}
+.name {
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: 34px;
+}
+.isonline {
+  text-align: center;
+}
